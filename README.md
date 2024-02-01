@@ -54,8 +54,8 @@ Directories specific to this repo include:
 config/         Configuration which describes the manta deployment.
 manifests/      Service-wide configuration manifests.
 networking/     Scripts and configuration for Manta networking.
-sapi_manifests/ SAPI manifests for zone configuration.
-scripts/        The user-script for all manta instances.
+sapi_manifests/ SAPI manifests for zone configuration
+scripts/        The user-script for all manta instances
 ```
 
 ## Development
